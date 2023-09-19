@@ -1,0 +1,14 @@
+.filter-form {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 1rem;
+}
+.filter-select {
+    padding: .3rem .7rem;
+    border-radius: .5rem;
+    font-weight:bold;
+}
+.filter-label {
+    color: #fff;
+}
